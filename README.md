@@ -6,7 +6,8 @@
 Embark on a coding adventure with GPT-CodeApp, your new AI-powered coding companion! 🎉 This isn't just another Chat-GPT clone; it's your gateway to a smoother coding experience, packed with features you've always wished for.
 
 
-<img width="1322" alt="Знімок екрана 2025-01-22 о 22 18 15" src="https://github.com/user-attachments/assets/d91ad461-293a-43a6-bc5b-23658e722ae3" />
+![image](https://github.com/user-attachments/assets/eb1d1705-79b7-4a34-8f81-ebbaced90c02)
+
 
 
 ## 📚 Table of Contents
